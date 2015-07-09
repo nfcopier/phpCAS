@@ -12,6 +12,10 @@
  * @license  http://www.apache.org/licenses/LICENSE-2.0  Apache License 2.0
  * @link     https://wiki.jasig.org/display/CASC/phpCAS
  */
+
+// This example file has been modified by Nathan Copier
+// This file should be replaced with the actual index file of the production website
+
 // Load the settings from the central config file
 require_once 'config.php';
 // Load the CAS lib

@@ -17,6 +17,8 @@
  * @link     https://wiki.jasig.org/display/CASC/phpCAS
  */
 
+//This file has been modified by Nathan Copier for USU CAS
+
 $phpcas_path = '/source/';
 
 ///////////////////////////////////////
